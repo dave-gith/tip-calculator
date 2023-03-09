@@ -10,8 +10,6 @@ Format the result to 2 decimal places = 33.60
 
 Thus everyone's share of the total bill is $30.00 plus a $3.60 tip.
 
-Tip: There are 2 ways to round a number. You might have to do some Googling to solve this.💪
-
 
 # Example Input
 
@@ -27,8 +25,3 @@ How many people to split the bill? 7
 ```
 Each person should pay: $19.93
 ```
-
-
-# Hint
-
-1. [How to round a number to 2 decimal places in python.
