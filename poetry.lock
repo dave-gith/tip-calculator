@@ -1,0 +1,30 @@
+[[package]]
+name = "customtkinter"
+version = "5.0.5"
+description = "Create modern looking GUIs with Python"
+category = "main"
+optional = false
+python-versions = ">=3.7"
+
+[package.dependencies]
+darkdetect = "*"
+
+[[package]]
+name = "darkdetect"
+version = "0.8.0"
+description = "Detect OS Dark Mode from Python"
+category = "main"
+optional = false
+python-versions = ">=3.6"
+
+[package.extras]
+macos-listener = ["pyobjc-framework-cocoa"]
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "639c8ca05dcbd2b1b04796f5dd5bf72271f2bcae2e962c359194844e94ac7cc4"
+
+[metadata.files]
+customtkinter = []
+darkdetect = []
